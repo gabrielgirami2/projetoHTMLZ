@@ -1,0 +1,11 @@
+.h1{
+    color: red;
+    size: 12px;
+    font-weight: bold;
+}
+
+.p{
+    color: aqua;
+    size: 15px;
+    font-style: italic;
+}
